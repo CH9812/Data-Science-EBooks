@@ -260,6 +260,4 @@ If you find a nice ebook or interview resource or cheatsheet related to Data Sci
 
 That's it.
 
-Alternatively, you can send us an email with book infos : ssiddharth408@gmail.com
-
 Thanks per advance 💙!
